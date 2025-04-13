@@ -19,3 +19,10 @@ Commit and sync can be done either ways
 |WEEK 10|Testing of Web Applications|
 |WEEK 11|HTML Evolution and Beyond HTML|
 |WEEK 12|Application Deployment|
+
+
+Notes best compatible with Obsidian. Screengrabs linking is allowed in the app. Any other app that can do that can effectively view and edit these.
+
+Took the course for Jan 2025 term, will add all the assignments, OPPE and quizzes here.
+
+Notes are incomplete, anyone who will study this in further batches, welcome to fork this repository, takes notes or modify mine and send in a pull request. Welcome to add further quizzes and exams and OPPE along with solutions.
